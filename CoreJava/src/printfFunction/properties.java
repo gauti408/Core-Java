@@ -20,6 +20,9 @@ public class properties {
 		float f =12.12458f;
 		System.out.printf("%.1f%n",f);
 		System.out.printf("%.3s","hellow");
+		System.out.println();
+		System.out.printf("%8d%n",1244);
+		System.out.printf("%-8d%n",1245);
 		
 
 	}
